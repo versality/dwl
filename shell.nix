@@ -17,7 +17,7 @@ in
       wlroots_0_19
       libxkbcommon
       wayland-protocols
-      pixman  # Add this line
+      pixman
 
       # XWayland support (optional)
       xorg.libxcb
