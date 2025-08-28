@@ -9,6 +9,7 @@ in
       pkg-config
       bear
       gdb
+      wlr-randr
 
       # dwl dependencies
       libinput
