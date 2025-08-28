@@ -22,6 +22,7 @@ in
 
       # XWayland support (optional)
       xorg.libxcb
+      xorg.xcbutilwm
       xwayland
     ];
 
